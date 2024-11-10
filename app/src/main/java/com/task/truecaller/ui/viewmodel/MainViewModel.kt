@@ -1,4 +1,4 @@
-package com.task.truecaller
+package com.task.truecaller.ui.viewmodel
 
 import android.util.Log
 import androidx.compose.runtime.MutableState

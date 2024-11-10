@@ -1,4 +1,4 @@
-package com.task.truecaller
+package com.task.truecaller.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -38,6 +38,9 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.task.truecaller.ui.viewmodel.MainViewModel
+import com.task.truecaller.utils.MainViewModelFactory
+import com.task.truecaller.R
 import com.task.truecaller.di.RepositoryProvider
 import com.task.truecaller.task.TaskState
 import com.task.truecaller.ui.theme.TruecallerTaskTheme

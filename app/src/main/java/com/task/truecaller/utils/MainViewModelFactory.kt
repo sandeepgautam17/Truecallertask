@@ -1,8 +1,9 @@
-package com.task.truecaller
+package com.task.truecaller.utils
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import com.task.truecaller.repository.ContentRepository
+import com.task.truecaller.ui.viewmodel.MainViewModel
 
 class MainViewModelFactory(
     private val contentRepository: ContentRepository
