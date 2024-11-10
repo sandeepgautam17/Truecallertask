@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Truecaller task</string>
+    <string name="life_at_truecaller">Fetch life at true caller</string>
+    <string name="error_loading_content">Error loading content</string>
+    <string name="loading_task">Task %1$d loading..</string>
+    <string name="task_content">"Task %1$d content"</string>
+</resources>
